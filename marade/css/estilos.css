@@ -1,0 +1,29 @@
+body{
+	background-color: #D8D8D8;
+	
+
+}
+.total{
+	display: flex;
+	min-height: 92.4vh;
+	flex-wrap: wrap;
+
+}
+footer{
+	width: 100%;
+	bottom: 0;
+	background-color: #D8D8D8;
+	align-self: flex-end;
+
+}
+
+#cont{
+	padding-bottom:15px;
+	background-color: black;
+	color: white;
+	
+}
+
+#cont p{
+	color: #BDBDBD;
+}
